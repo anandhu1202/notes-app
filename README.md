@@ -1,9 +1,9 @@
-Setup of the project
+# Setup of the project
 
-git <repo-url>
+# git <repo-url>
 
-unzip the folder
+# unzip the folder
 
-run the following command
+# run the following command
 
-"python main.py"
+# "python main.py"
