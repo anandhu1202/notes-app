@@ -1,6 +1,6 @@
 # Setup of the project
 
-# git repo-url
+# run this command in cli "git repo-url"
 
 # unzip the folder
 
